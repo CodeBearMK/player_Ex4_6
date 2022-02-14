@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\player_Ex4_6\bin\Debug\net6.0\player_Ex4_6.exe
+D:\cat32tw\Desktop\player_Ex4_6\bin\Debug\net6.0\player_Ex4_6.deps.json
+D:\cat32tw\Desktop\player_Ex4_6\bin\Debug\net6.0\player_Ex4_6.runtimeconfig.json
+D:\cat32tw\Desktop\player_Ex4_6\bin\Debug\net6.0\player_Ex4_6.dll
+D:\cat32tw\Desktop\player_Ex4_6\bin\Debug\net6.0\ref\player_Ex4_6.dll
+D:\cat32tw\Desktop\player_Ex4_6\bin\Debug\net6.0\player_Ex4_6.pdb
+D:\cat32tw\Desktop\player_Ex4_6\obj\Debug\net6.0\player_Ex4_6.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\player_Ex4_6\obj\Debug\net6.0\player_Ex4_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\player_Ex4_6\obj\Debug\net6.0\player_Ex4_6.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\player_Ex4_6\obj\Debug\net6.0\player_Ex4_6.AssemblyInfo.cs
+D:\cat32tw\Desktop\player_Ex4_6\obj\Debug\net6.0\player_Ex4_6.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\player_Ex4_6\obj\Debug\net6.0\player_Ex4_6.dll
+D:\cat32tw\Desktop\player_Ex4_6\obj\Debug\net6.0\ref\player_Ex4_6.dll
+D:\cat32tw\Desktop\player_Ex4_6\obj\Debug\net6.0\player_Ex4_6.pdb
+D:\cat32tw\Desktop\player_Ex4_6\obj\Debug\net6.0\player_Ex4_6.genruntimeconfig.cache
